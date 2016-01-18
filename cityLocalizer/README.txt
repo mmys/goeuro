@@ -10,11 +10,11 @@ simple java application CityLocalizer:
 3. Go to target folder to run application
 4. Run application with follwoing command:
 
-	java -jar citylocalizer-1.0.0.jar CITY_NAME FOLDER_PATH
+	java -jar citylocalizer-1.0.0-jar-with-dependencies.jar CITY_NAME FOLDER_PATH
 	
 	for example:
 	
-	java -jar citylocalizer-1.0.0.jar Warsow C:\abc\xyz
+	java -jar citylocalizer-1.0.0-jar-with-dependencies.jar Warsow C:\abc\xyz
 	
 	
 	Apllication will check for localizations of given city - Warsow
